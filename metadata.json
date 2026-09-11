@@ -1,0 +1,8 @@
+{
+  "name": "BuildMind AI",
+  "description": "An integrated AI financial and budget intelligence system that tracks, manages, and optimizes project spending across the entire construction lifecycle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
